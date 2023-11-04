@@ -564,6 +564,10 @@ em {
   .table {
     width: 100%;
   }
+
+  .mobile-caption {
+    display: none;
+  }
 }
 
 .table th {
